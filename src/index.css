@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li {
+    border: 2px solid salmon;
+    padding: 0.5rem;
+}
+
+ul {
+    list-style: none;
+    padding: 1rem;
+    border: 2px solid chocolate;
+}
